@@ -1,0 +1,13 @@
+.a{
+    display: inline-block;
+}
+.b{
+    margin-left: 100px;
+
+}
+.home{
+    display: flow-root;
+}
+.settings{
+    margin-top: 20px;
+}
